@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kiculagbe.com	TRUE	/	FALSE	1999999999	SESSwooslg	wooslg6113f1de97bbc5.31615363
+kiculagbe.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+kiculagbe.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_e11342fe99bec4e383a79ca6bca3c727	100ec38d3f95c0e3f89f87eb2ccf0828%7C%7C1628870072%7C%7C1628866472%7C%7C865de1300bc60358107ddd9b415833f1
+kiculagbe.com	TRUE	/	FALSE	1999999999	xoo_ml_user_ip_data	%7B%22ip_address%22%3A%22%22%2C%22countryCode%22%3A%22%22%7D
+kiculagbe.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	dc657973f3f187438ccc6dbd3841fa88
+
